@@ -1,0 +1,2 @@
+size,power,function,IC,Cycles,CPI,CT,ET,L1_dcache_miss_rate,L1_dcache_misses,L1_dcache_accesses
+10,2,matexp_solution_c,28980,54026,1.864251,0.148077,0.000008,0.028831,324,11238

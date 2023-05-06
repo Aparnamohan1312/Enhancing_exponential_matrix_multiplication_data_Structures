@@ -1,0 +1,20 @@
+{
+    "output": "",
+    "visibility": "visible",
+    "stdout_visibility": "visible",
+    "tests": [
+        {
+            "score": 76.64,
+            "max_score": 100.0,
+            "output": "Test: bench_solution 16 4:  The target speedup is 8.00x, your speedup is 6.13x.  Your score is 6.13/8*100.00 = 76.64 (or 100.0, if that values is greater than 100.0)",
+            "tags": [],
+            "visibility": "visible"
+        }
+    ],
+    "leaderboard": [
+        {
+            "name": "bench_solution 16 4 speedup",
+            "value": 6.13
+        }
+    ]
+}

@@ -1,0 +1,2 @@
+size,rep,arg1,function,IC,Cycles,CPI,CT,ET,L1_dcache_miss_rate,L1_dcache_misses,L1_dcache_accesses
+1048576,1,1,struct_size,13284,69540,5.234869,0.172563,0.000012,0.042375,299,7056

@@ -1,0 +1,2 @@
+size,rep,arg1,function,IC,Cycles,CPI,CT,ET,L1_dcache_miss_rate,L1_dcache_misses,L1_dcache_accesses
+8192,1,1,array,49704,35106,0.706301,0.113941,0.000004,0.090395,1247,13795

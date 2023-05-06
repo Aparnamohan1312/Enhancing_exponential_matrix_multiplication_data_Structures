@@ -1,0 +1,2 @@
+size,power,function,IC,Cycles,CPI,CT,ET,L1_dcache_miss_rate,L1_dcache_misses,L1_dcache_accesses
+16,4,bench_solution,127185366802,33817297943,0.265890,0.245959,8.317658,0.011741,423379916,36059569824

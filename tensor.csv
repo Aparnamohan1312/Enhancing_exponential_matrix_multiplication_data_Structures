@@ -1,0 +1,2 @@
+size,rep,arg1,function,IC,Cycles,CPI,CT,ET,L1_dcache_miss_rate,L1_dcache_misses,L1_dcache_accesses
+1000,1,1,tensor,84948,100523,1.183347,0.198959,0.000020,0.011246,384,34146
